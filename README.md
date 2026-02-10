@@ -19,3 +19,5 @@ This repository contains small experiments, prototypes, and gameplay ideas.
 
 I use it to test concepts while working with Unreal Engine, Unity, and web technologies.
 Projects here are works in progress and learning-focused.
+
+Updates note on gameplay experments - feb 2026
